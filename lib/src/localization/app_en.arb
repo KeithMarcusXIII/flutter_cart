@@ -1,0 +1,6 @@
+{
+  "appTitle": "flutter_cart",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
